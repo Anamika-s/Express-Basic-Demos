@@ -1,0 +1,15 @@
+{
+  "name": "expressdemo-1",
+  "version": "1.0.0",
+  "description": "Express Application",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
